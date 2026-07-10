@@ -32,6 +32,8 @@ Building scalable web applications, solving complex DSA problems, and exploring 
 
 
 
+
+
 ## About Me
 
 -  B.Tech Computer Science (Cloud Computing) student at **VIT Bhopal University** (CGPA: **/10**)
@@ -39,6 +41,10 @@ Building scalable web applications, solving complex DSA problems, and exploring 
 -  Building scalable web applications using **React, Next.js, Node.js, Express.js, MongoDB, and modern web technologies**
 -  Solved **400+ DSA problems** on LeetCode and continuously improving problem-solving skills
 -  Currently exploring **System Design, GenAI, and Cloud Technologies**
+
+
+
+
 
 ## Core Technologies
 
@@ -62,6 +68,10 @@ Building scalable web applications, solving complex DSA problems, and exploring 
 
 </p>
 
+
+
+
+
 ## 🚀 Featured Projects
 
 ###  NavxCoding Agent — AI-Powered Coding Assistant
@@ -84,6 +94,10 @@ Building scalable web applications, solving complex DSA problems, and exploring 
 
 **Tech Stack:** React.js • Node.js • Express.js • MongoDB • JWT • Multer • Tailwind CSS
 
+
+
+
+
 ##  Engineering Interests
 
 -  Full Stack Web Development
@@ -93,6 +107,9 @@ Building scalable web applications, solving complex DSA problems, and exploring 
 -  Data Structures & Algorithms
 -  Open Source Development
 -  Building Scalable and High-Performance Applications
+
+
+
 
 
 ## 🏆 Certifications & Achievements

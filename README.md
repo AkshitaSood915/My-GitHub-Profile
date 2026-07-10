@@ -30,7 +30,6 @@ Building scalable web applications, solving complex DSA problems, and exploring 
   </a>
 </p>
 <br>
-<br>
 
 ## About Me
 
@@ -40,7 +39,6 @@ Building scalable web applications, solving complex DSA problems, and exploring 
 -  Solved **400+ DSA problems** on LeetCode and continuously improving problem-solving skills
 -  Currently exploring **System Design, GenAI, and Cloud Technologies**
 
-<br>
 <br>
 
 ## Core Technologies
@@ -66,7 +64,6 @@ Building scalable web applications, solving complex DSA problems, and exploring 
 </p>
 
 <br>
-<br>
 
 ## 🚀 Featured Projects
 
@@ -91,7 +88,6 @@ Building scalable web applications, solving complex DSA problems, and exploring 
 **Tech Stack:** React.js • Node.js • Express.js • MongoDB • JWT • Multer • Tailwind CSS
 
 <br>
-<br>
 
 
 ##  Engineering Interests
@@ -103,8 +99,7 @@ Building scalable web applications, solving complex DSA problems, and exploring 
 -  Data Structures & Algorithms
 -  Open Source Development
 -  Building Scalable and High-Performance Applications
-<br>
-<br>
+   <br>
 
 ## 🏆 Certifications & Achievements
 
@@ -119,3 +114,5 @@ Building scalable web applications, solving complex DSA problems, and exploring 
 -  Maintained a **100+ day coding streak**
 -  Qualified for the **Pre-Final Round** of the **Health Hackathon** organized by **VIT Bhopal** and **Johns Hopkins University**
 -  Maintained a **CGPA of    /10** in B.Tech (CSE – Cloud Computing)
+  <br>
+   

@@ -65,7 +65,7 @@ Building scalable web applications, solving complex DSA problems, and exploring 
 
 <br>
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 ###  NavxCoding Agent — AI-Powered Coding Assistant
 
@@ -102,14 +102,14 @@ Building scalable web applications, solving complex DSA problems, and exploring 
 
    <br>
 
-## 🏆 Certifications & Achievements
+##  Certifications & Achievements
 
-### 📜 Certifications
+###  Certifications
 -  **NPTEL – Introduction to Internet of Things** | **Top 1%** with **97%** score
 -  **Applied Machine Learning in Python** – University of Michigan | **96%** score
 -  Certified in **Cloud Computing** and modern web development technologies
 
-### 🏅 Achievements
+###  Achievements
 -  Solved **400+ DSA problems** on **LeetCode**
 -  Achieved a **3★ rating** on CodeChef
 -  Maintained a **100+ day coding streak**
@@ -117,7 +117,7 @@ Building scalable web applications, solving complex DSA problems, and exploring 
 -  Maintained a **CGPA of    /10** in B.Tech (CSE – Cloud Computing)
   <br>
 
-  ## 📊 GitHub Statistics
+  ##  GitHub Statistics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AkshitaSood915&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -131,19 +131,19 @@ Building scalable web applications, solving complex DSA problems, and exploring 
 
 <br>
 
-## 💻 LeetCode Activity
+##  LeetCode Activity
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/akshitasood15?theme=dark&font=Karma&ext=contest" />
+  <img src="https://leetcard.jacoblin.cool/Akshita15Sood?theme=dark&font=Karma&ext=contest" />
 </p>
 
 <p align="center">
-  <b>🧩 Solved 400+ DSA Problems • Regular Contest Participant • Strong Problem-Solving Skills</b>
+  <b> Solved 400+ DSA Problems • Regular Contest Participant • Strong Problem-Solving Skills</b>
 </p>
 
 <br>
 
-## 🌱 Currently Exploring
+##  Currently Exploring
 
 -  Generative AI & LLM Applications
 -  Backend Development with Node.js & Express.js
@@ -152,7 +152,9 @@ Building scalable web applications, solving complex DSA problems, and exploring 
 -  Building Scalable Full Stack Applications
    
 <br>
+---
 
 <p align="center">
-  <i>Turning ideas into impactful software, one commit at a time.</i> ✨
+Building intelligent solutions, writing clean code, and continuously learning to create meaningful impact.
 </p>
+

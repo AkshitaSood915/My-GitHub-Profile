@@ -99,6 +99,7 @@ Building scalable web applications, solving complex DSA problems, and exploring 
 -  Data Structures & Algorithms
 -  Open Source Development
 -  Building Scalable and High-Performance Applications
+
    <br>
 
 ## 🏆 Certifications & Achievements
@@ -115,4 +116,43 @@ Building scalable web applications, solving complex DSA problems, and exploring 
 -  Qualified for the **Pre-Final Round** of the **Health Hackathon** organized by **VIT Bhopal** and **Johns Hopkins University**
 -  Maintained a **CGPA of    /10** in B.Tech (CSE – Cloud Computing)
   <br>
+
+  ## 📊 GitHub Statistics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=AkshitaSood915&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshitaSood915&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshitaSood915&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<br>
+
+## 💻 LeetCode Activity
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/akshitasood15?theme=dark&font=Karma&ext=contest" />
+</p>
+
+<p align="center">
+  <b>🧩 Solved 400+ DSA Problems • Regular Contest Participant • Strong Problem-Solving Skills</b>
+</p>
+
+<br>
+
+## 🌱 Currently Exploring
+
+-  Generative AI & LLM Applications
+-  Backend Development with Node.js & Express.js
+-  Cloud Computing & AWS
+-  System Design Fundamentals
+-  Building Scalable Full Stack Applications
    
+<br>
+
+<p align="center">
+  <i>Turning ideas into impactful software, one commit at a time.</i> ✨
+</p>
